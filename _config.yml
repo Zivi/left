@@ -5,9 +5,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+name: Zivi Weinstock
+url: http://zivi.github.io
+description: A blog tracking my journey into coding.
+twitter: z1v1
+github: zivi
+gravatar_url: http://www.gravatar.com/avatar/e611d793e989eae0853a75d524be7ab8.png
