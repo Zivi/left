@@ -36,7 +36,7 @@ To test for useability, I had my classmates and mentors try out this version of 
 
 ## Third and Final Iteration
 
-Since the users didn't know what slopes they could handle, or even what the grades of a given slope meant (do you know how awful a 10% grade is?), I needed to determine the slopes the average pedestrian/cyclist would tolerate. Based on what I found on some [hiking](https://www.venturacountytrails.org/TrailMaps/TrailSymbols.htm) and [biking](https://www.bicyclenetwork.com.au/general/bike-futures/91988/) sites, I determined the color scheme for the slopes, removed the slope slider, replaced it with a color legend, and redrew the path in the legend's colors to visually show the slope directly on to the map.
+Since the users didn't know what slopes they could handle, or even what the grades of a given slope meant (do you know how awful a 10% grade is?), I needed to determine the slopes the average pedestrian/cyclist would tolerate. Based on what I found on some [hiking](http://www.venturacountytrails.org/TrailMaps/TrailSymbols.htm) and [biking](https://www.bicyclenetwork.com.au/) sites, I determined the color scheme for the slopes, removed the slope slider, replaced it with a color legend, and redrew the path in the legend's colors to visually show the slope directly on to the map.
 
 By providing the user with slope info, they are now empowered to find their own flattest route according to their own preferences.  As a nice side effect, it also allows them to find the steepest route if they're so _inclined_.
 
